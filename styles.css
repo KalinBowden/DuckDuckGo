@@ -1,0 +1,73 @@
+/* CSS */
+body
+{
+    background-color: green;
+    background-image: url(images/back.png);
+    color: blue;
+}
+
+.container-fluid
+{
+    padding: 0;
+}
+
+h1
+{
+    margin: 0;
+    margin-top: 1.2em;
+    font-family: 'Architects Daughter', cursive;
+    padding-left: 1em;
+    color: yellow;
+    font-size: 4.3em;
+    text-shadow: 2px 2px black;
+}
+
+h1 p
+{
+    padding-left: 4.5em;
+    font-size: 1.7em;
+}
+
+.custHead
+{
+    background: linear-gradient(90deg, #00ffff, #00868b);
+    margin: 0;
+    padding-top: 1.5em;
+}
+
+.custHead p
+{
+    padding-left: 4.5em;
+    font-size: 1.7em;
+}
+
+.mainImg
+{
+    background: radial-gradient( white, transparent);
+    color: darkblue;
+}
+
+.mainImg h1
+{
+    color: darkblue;
+    background: radial-gradient( white, transparent);
+    padding: 0;
+}
+
+.mainImg p
+{
+    background: radial-gradient( white, transparent);
+    font-size: 2em;
+    margin-bottom: 1.2em;
+}
+
+.imgBar
+{
+    background: linear-gradient(90deg, #00ffff, #00868b);
+    padding-top: .7em;
+}
+
+h2
+{
+    padding-bottom: .4em;
+}
