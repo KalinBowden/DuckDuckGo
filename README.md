@@ -1,0 +1,2 @@
+# DuckDuckGo
+Java Script prac
